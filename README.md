@@ -64,12 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhomikyadav&show_icons=true)
-
----
-
 ## 🔥 Featured Projects
 
 ### Distributed URL Shortener
