@@ -66,9 +66,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhomikyadav&show_icons=true)
 
 ---
 
@@ -98,8 +96,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/bhomikyadav/
+- Email: bhomickyadav786@gmail.com
 
 ---
 
