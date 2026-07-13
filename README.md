@@ -92,7 +92,7 @@ A production-ready URL shortening platform designed using distributed system pri
 - RabbitMQ
 - Docker
 - JWT
-- Prisma/Mongoose *(depending on your implementation)*
+- Mongoose
 
 ---
 
