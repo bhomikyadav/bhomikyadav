@@ -66,12 +66,78 @@
 
 ## 🔥 Featured Projects
 
-### Distributed URL Shortener
-- URL shortening service
-- Analytics Dashboard
+### 🚀 Enterprise Distributed URL Shortener Platform (Current Project)
+
+A production-ready URL shortening platform designed using distributed system principles and scalable backend architecture.
+
+**Key Features**
+- 🔗 Custom & Auto-generated Short URLs
+- 📊 Real-time Analytics Dashboard
+- ⚡ Redis Caching for High Performance
+- 📨 RabbitMQ-based Event Processing
+- 🛡 JWT Authentication & Role-Based Authorization
+- 🚦 Rate Limiting
+- 📱 QR Code Generation
+- 📈 Click Tracking & Geographic Analytics
+- ⏳ URL Expiration & Scheduled Cleanup Jobs
+- 🔍 Advanced Search & Filtering
+- 🐳 Dockerized Microservices
+- 📄 API Documentation with Swagger
+
+**Tech Stack**
+- NestJS
+- TypeScript
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker
+- JWT
+- Prisma/Mongoose *(depending on your implementation)*
+
+---
+
+### 🌍 Tour Booking Platform
+
+A complete backend for a tour booking system supporting users, administrators, and payment processing.
+
+**Features**
+- User Authentication & Authorization
+- Tour Package Management
+- Booking Management
+- Payment Gateway Integration
+- Email & SMS Notifications
+- File Uploads
 - Redis Caching
-- Rate Limiting
-- QR Code Generation
+- Cron Jobs
+- Reports & Analytics
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Redis
+
+---
+
+### 🛒 E-commerce Backend
+
+A scalable REST API for modern e-commerce applications.
+
+**Features**
+- Product Management
+- Cart & Wishlist
+- Order Processing
+- Payment Integration
+- Inventory Management
+- Authentication
+- Admin APIs
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MongoDB
+- Redis
 
 ### Tour Booking Platform
 - User Authentication
